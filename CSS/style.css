@@ -1,0 +1,36 @@
+body {
+  font-weight: 400;
+  font-family: Lato, Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 2.2em;
+  color: #010101;
+  margin: 0;
+}
+
+header {
+  background-color: #f4511e;
+  padding: 0.1px;
+}
+
+section,
+footer {
+  margin: 40px;
+}
+
+h1 {
+  font-size: 63px;
+  color: #f6f2f2;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #555555;
+  font-weight: 600;
+}
+
+figure a {
+  text-decoration: none;
+  color: #ffc107;
+}
